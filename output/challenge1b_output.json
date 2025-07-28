@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": {
+      "role": "Travel Planner",
+      "focus_areas": []
+    },
+    "job_to_be_done": {
+      "task": "Plan a trip of 4 days for a group of 10 college friends.",
+      "context": ""
+    },
+    "processing_timestamp": "2025-07-28T12:10:54.408Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture  History  Aix-en-Provence, founded by",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm  History  Montpellier, founde",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Comprehensive Guide to Major Cities in the South of France  Introduction  The So",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Overview of the Region  The South of France, or \"Le Midi,\" encompasses the regio",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marseille: The Oldest City in France  History  Marseille, founded by Greek sailo",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Conclusion  The South of France offers a rich and diverse culinary landscape tha",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "A Culinary Journey Through the South of France  Introduction  The South of Franc",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes  The South of France is home to many iconic dishes that you must t",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Types of Food  The cuisine in the South of France is diverse, reflecting the reg",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Must-Visit Restaurants  To truly experience the culinary delights of the South o",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm  Montpellier, founded in the",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "A Historical Journey Through the South of France  Introduction  The South of Fra",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Carcassonne: A Medieval Fortress  Carcassonne is a fortified city in the Langued",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Aix-en-Provence: A City of Art and Culture  Aix-en-Provence, founded by the Roma",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Conclusion  The South of France offers a rich tapestry of history, culture, and",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Comprehensive Guide to Restaurants and Hotels in the South of France  Introducti",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Conclusion  The South of France offers a wide range of dining and accommodation",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "•   Le Park 45 (Cannes): A Michelin-starred restaurant offering a variety of dis",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Restaurants  •   Le Louis XV - Alain Ducasse (Monaco): A three-Micheli",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Hotels  Budget-Friendly Hotels  •   Ibis Budget Nice Californie Lenval (Nice): A",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Ultimate Guide to Activities and Things to Do in the South of France  Introducti",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Conclusion  The South of France is a diverse and enchanting region that offers a",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Activities  The diverse landscapes of the South of France offer plenty o",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Culinary Delights  The South of France is a food lover's paradise. Here are some",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Family-Friendly Activities  The South of France offers a variety of activities t",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packi",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Conclusion  Packing for a trip to the South of France involves considering the s",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "General Packing Tips and Tricks  •   Layering:   The weather can vary, so pack l",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for All Seasons  Spring (March to May)  •   Clothing:   Light sweaters,",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "•   Additional Tips:   Winter is mild compared to other regions, but it's still",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "A Comprehensive Guide to Traditions and Culture in the South of France  Introduc",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Language and Literature  Provençal Language  The Provençal language, also known",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "accompanied by shepherds and their dogs. It's a unique opportunity to witness a",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Truffles, often referred to as \"black diamonds,\" are a prized delicacy in the So",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "used to create nativity scenes. Santon fairs, such as the one in Marseille, offe",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node runner.js"
+  },
+  "dependencies": {
+    "pdfjs-dist": "3.4.120"
+  }
+}
